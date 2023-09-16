@@ -1,13 +1,16 @@
-Обо мне
-Привет! Меня зовут Сергей, я начинающий тестировщик.
+#Обо мне
+#Привет! Меня зовут Сергей, я начинающий тестировщик.
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 
-Навыки и технологии
-Jira,qase.io,SQL, Postman,Fiddler, Swagger, Trello,
-SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
+##Навыки и технологии
+'Trello', 'Miro' 'drav.io', 'Jira', 'Confluence', 'qase.io', 
 
-Проекты
-Проект 1: тест веб-приложения для учителей от Skyeng
+'SQL', 'Postman', 'jmeter', 'PICT', 'Checkvist', 
+
+'Visual Studio Code', 'GitHub', 'Chrome DevTools', 'Mokoon'
+
+##Проекты
+###Проект 1: тест веб-приложения для учителей от Skyeng
 
 Что нужно было сделать:
 
@@ -26,7 +29,7 @@ SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
 Итог №1
 Итог №2
 
-Проект 2: тест кабинета учителя в приложении Skyeng
+###Проект 2: тест кабинета учителя в приложении Skyeng
 
 Что нужно было сделать:
 
@@ -40,27 +43,7 @@ SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
 
 Итог №1
 Итог №2
-Контактная информация
-Email: name@email.com
-LinkedIn: https://www.linkedin.com/in/username/
-Личный сайт: https://www.username.com
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 1 star
-Watchers
- 1 watching
-Forks
- 11 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
+###Контактная информация
+Email: bolgov1910@jmail.com
+LinkedIn: -
+Личный сайт: -
