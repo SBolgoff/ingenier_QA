@@ -1,5 +1,3 @@
-# Портфолио: инженер по тестированию
-
 ## Обо мне 
 
 Привет! Меня зовут **Сергей** я тестировщик на стадии обучения. <br>
@@ -12,13 +10,21 @@
 ``SQL``, ``Postman``, ``jmeter``, ``PICT``, ``Checkvist``,<br>
 ``Visual Studio Code``, ``GitHub``, ``Chrome DevTools``, ``Mokoon``
 
+## Логины и пароли для входа по ссылкам
+|ресурс|логин|пароль|
+|:-|:-:|:-:|
+|jira | bolgov1910@gmail.com | fi%wwfuF!2y/vA!|
+|Confluence| bolgov1910@gmail.com | fi%wwfuF!2y/vA!|
+|checkvist|bolgov1910@gmail.com |txV2QfvHvxXV6@c|
+|qase.io|bolgov1910@gmail.com|_J_wLYATC62gjYp|
+|Файлы на Goole Drive|по ссылке|
 
 ## Проекты
 
-Проект 1: Регрессионное тестирование сайта «Библиотека»
+### Проект 1: Регрессионное тестирование сайта «Библиотека»
 
 Что нужно было сделать:
-
+Тестирование сайта «Библиотека». Состоит из 2-х разделов: пользовательский и администратора.
 Цель: <br> Проверка исправлений дефектов, выявленных при первоначальном тестировании 
 
 Задачи
@@ -26,25 +32,23 @@
  -  тестирование производтельности
  -  выводы и рекомендации по итогам тестирования
 
-Описание решения:<br> Тестирование производилось с использованием тестового набора `https://app.qase.io/project/BA` 
-> <a href="https://testqa35.atlassian.net/wiki/spaces/MP/pages/33272/EX1+1"Тестовый набор проекта </a>
-https://bolgov1910.atlassian.net/issues/?jql=project+%3D+%22IX7%22+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiNzgwODc4MTkwYTc5NDkxZjgxYWY3MDlhZGIxNDkwODkiLCJwIjoiaiJ9
+Описание решения:<br> Тестирование производилось с использованием [тестового набора](https://checkvist.com/p/35DE0TW76ZrADPhgW53EDB) на CheckVist<br>
+[Отчеты о дефектах оформлены](https://bolgov1910.atlassian.net/issues/?jql=project+%3D+%22WI8%22+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiZWQ1ODM3NmZmMjMzNDE4OTg3ZDZmZDUyZTMyM2M3NmUiLCJwIjoiaiJ9) в jira<br>
+[Отчет о тестировании](https://bolgov1910.atlassian.net/l/cp/hdGRjneR) оформлен в Confluence
 
-> <a href="https://testqa35.atlassian.net/wiki/spaces/MP/pages/33272/EX1+1">Ссылка на проект</a>
-  (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
-> <p> логин: dehico8286@fsouda.com </p>
-> <p> пароль: 16Jan2023 </p>
- 
- <p>Выводы (итоги):<p>
-<ol>
-  <li>Итог №1</li>
-  <li>Итог №2</li>
-</ol>
+ Выводы (итоги):
+1. Проведено тестирование 
+2. Выявлены устраненные дефекты
+3. Выявлены новые дкфекты
+4. Рассчитаны статистические показатели
+5. Сделан вывод о необходимости доработки системы
 
 
-<br> 
+Ссылки на приложения приведены в [Отчете о тестировании](https://bolgov1910.atlassian.net/l/cp/hdGRjneR) (Confluence)
 
-<p> Проект 2: тест кабинета учителя в приложении Skyeng</p>
+
+
+### Проект 2: тест кабинета учителя в приложении Skyeng</p>
 <p>Что нужно было сделать:<p>
 <ol>
   <li>Задача №1</li>
@@ -56,7 +60,7 @@ https://bolgov1910.atlassian.net/issues/?jql=project+%3D+%22IX7%22+ORDER+BY+crea
 >  <a href="https://fogen.notion.site/fogen/1-2-Web-REST-API-Postman-5f1700d11e1840b2a4e244b38cb0190f">Ссылка на проект</a>
   (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
  
- <p>Выводы (итоги):<p>
+ <p>Выводы (итоги):<p> 
 <ol>
   <li>Итог №1</li>
   <li>Итог №2</li>
