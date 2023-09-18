@@ -10,42 +10,45 @@
 ``SQL``, ``Postman``, ``jmeter``, ``PICT``, ``Checkvist``,<br>
 ``Visual Studio Code``, ``GitHub``, ``Chrome DevTools``, ``Mokoon``
 
-## Логины и пароли для входа по ссылкам
-|ресурс|логин|пароль|
-|:-|:-:|:-:|
-|jira | bolgov1910@gmail.com | fi%wwfuF!2y/vA!|
-|Confluence| bolgov1910@gmail.com | fi%wwfuF!2y/vA!|
-|checkvist|bolgov1910@gmail.com |txV2QfvHvxXV6@c|
-|qase.io|bolgov1910@gmail.com|_J_wLYATC62gjYp|
-|Miro|bolgov1910@gmail.com|6rad@7*6V4fJ.vU|
-|Файлы на Goole Drive|по ссылке|
+          ## Логины и пароли для входа по ссылкам
+          |ресурс|логин|пароль|
+          |:-|:-:|:-:|
+          |jira | bolgov1910@gmail.com | fi%wwfuF!2y/vA!|
+          |Confluence| bolgov1910@gmail.com | fi%wwfuF!2y/vA!|
+          |checkvist|bolgov1910@gmail.com |txV2QfvHvxXV6@c|
+          |qase.io|bolgov1910@gmail.com|_J_wLYATC62gjYp|
+          |Miro|bolgov1910@gmail.com|6rad@7*6V4fJ.vU|
+          |Файлы на Goole Drive|по ссылке|
 
 ## Проекты
 
 ### Проект 1: Регрессионное тестирование сайта «Библиотека»
-
+Проект состоит из системы пользователей и системы администратора. Пользователи выполняют поиск и выбор книг, получают различную информацию о них, имеют возможность оставить отзыв. Администратор вводит и удаляет книги, а так же информацию о них.
 Что нужно было сделать:
-Тестирование сайта «Библиотека». Состоит из 2-х разделов: пользовательский и администратора.
+
 Цель: <br> Проверка исправлений дефектов, выявленных при первоначальном тестировании 
 
 Задачи
- -  модульное и интеграционное тестирование
- -  тестирование производительности
- -  выводы и рекомендации по итогам тестирования
+1. Составление тесе-кейсов
+2. Модульное и интеграционное функциональное тестирование
+3. Тестирование производительности
+4. Оформление баг-репортов
+5. Составление отчета о тестировании с выводами и рекомендациями по его итогам
 
-Описание решения:<br> Тестирование производилось с использованием [тестового набора](https://checkvist.com/p/35DE0TW76ZrADPhgW53EDB) на CheckVist<br>
-[Отчеты о дефектах оформлены](https://bolgov1910.atlassian.net/issues/?jql=project+%3D+%22WI8%22+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiZWQ1ODM3NmZmMjMzNDE4OTg3ZDZmZDUyZTMyM2M3NmUiLCJwIjoiaiJ9) в jira<br>
-[Отчет о тестировании](https://bolgov1910.atlassian.net/l/cp/hdGRjneR) оформлен в Confluence
+Описание решения:<br> 
+Был составлен [тестовый набор](https://drive.google.com/file/d/1u5SGNcHqKuTGQ63_QGs_B_YDlJEICI9P/view?usp=drive_link) на CheckVist<br>
+[Отчеты о дефектах оформлены](https://drive.google.com/file/d/1wr86Dq2Xwcqz53rurXyx7HXdgP15EHOH/view?usp=drive_link) в jira<br>
+[Отчет о тестировании](https://drive.google.com/file/d/1YQyYlIEqoxxY3RDHZmArnjvMZ8FOW0U_/view?usp=drive_link) оформлен в Confluence
 
  Выводы (итоги):
 1. Проведено тестирование 
 2. Выявлены устраненные дефекты
 3. Выявлены новые дефекты
 4. Рассчитаны статистические показатели
-5. Сделан вывод о необходимости доработки системы
+5. Сделан вывод о неготовности системы и необходимости доработки
 
 
-Ссылки на приложения приведены в **[Отчете о тестировании](https://bolgov1910.atlassian.net/l/cp/hdGRjneR)** (Confluence)
+Ссылки на приложения приведены в **[Отчете о тестировании]([https://bolgov1910.atlassian.net/l/cp/hdGRjneR](https://drive.google.com/file/d/1YQyYlIEqoxxY3RDHZmArnjvMZ8FOW0U_/view?usp=drive_link))** (Confluence)
 
 
 
