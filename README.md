@@ -70,7 +70,7 @@
 
 Тестирование производилось с использованием [тестового набора](https://drive.google.com/file/d/1iYS-CMJBeuvDgsJI-sg8fA_ywrfqEQWa/view?usp=drive_link) на qase.io <br>
 [Отчеты о дефектах](https://drive.google.com/file/d/1VujGnTn9i1CfVO1t63O5cEK12RV8h2Oa/view?usp=drive_link)оформлены в jira<br>
-**[В Отчете о тестировании в Confluence]([https://bolgov1910.atlassian.net/l/cp/3VrTzQE6](https://drive.google.com/file/d/1DsdFrq9xG1Xd5prTCq0b0oG8Qnzop-ib/view?usp=drive_link))** приведены ссылки на все материалы, использованные в проекте: тест-кейсы, схемы, чек-листы, баг-репорты и на другие артефакты, относящиеся к проекту 
+**[В Отчете о тестировании в Confluence](https://drive.google.com/file/d/1DsdFrq9xG1Xd5prTCq0b0oG8Qnzop-ib/view?usp=drive_link)** приведены ссылки на все материалы, использованные в проекте: тест-кейсы, схемы, чек-листы, баг-репорты и на другие артефакты, относящиеся к проекту 
 
  Выводы (итоги):
 1. Изучена документация и выявлены ее недостатки
